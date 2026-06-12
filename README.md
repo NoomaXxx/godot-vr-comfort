@@ -1,4 +1,4 @@
-# VR Comfort Layer — Godot 4.x Plugin
+# Limn Comfort Layer — Godot 4.x Plugin
 
 Automatic VR comfort features for Godot 4.x.
 No manual setup needed — add the plugin, it works.
